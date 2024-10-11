@@ -1,6 +1,8 @@
 # DDPM Implementation
 
-#This repository contains an implementation of Denoising Diffusion Probabilistic Models (DDPM) using PyTorch. The code includes modules for position embedding, attention blocks, down-sampling, up-sampling, and a U-Net architecture.
+This repository contains an implementation of Denoising Diffusion Probabilistic Models (DDPM) using PyTorch. The code includes modules for position embedding, attention blocks, down-sampling, up-sampling, and a U-Net architecture.
+
+Note: This model has a very large number of parameters. It is recommended to run it on a server.
 
 # Usage
 
